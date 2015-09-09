@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="PES Marigold">
+
+    <title>Proyecto Marigold</title>
+
+    <!-- Bootstrap core CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+
+<div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">Hotel Familiar</h1>
+        <p class="lead blog-description">Ofertas por larga estancia.</p>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post">
+            <h2 class="blog-post-title">Actuación</h2>
+<p>Por lo visto, un 80% de la oferta hotelera está operada por familias. Una forma de materializar el
+proyecto, es explorar si alguno de estos hoteles (entre 10 y 30 habitaciones), estaría dispuesto a
+albergar por un año (prorrogable) una tribu.</p>
+<p> Los dueños cobrarían por su trabajo un fijo estipulado,
+y el resto de gastos, como en un hotel alquilado, interviniendo el grupo en la toma de decisiones de
+menús y aspectos similares.</p>
+         </div><!-- /.blog-post -->
+
+
+          <nav>
+            <ul class="pager">
+              <li><a href="#">Previous</a></li>
+              <li><a href="#">Next</a></li>
+            </ul>
+          </nav>
+
+        </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module">
+            <h4>Links</h4>
+            <ol class="list-unstyled">
+              <li><a href="https://www.youtube.com/watch?v=mUMESPBJlQo">Capitalismo</a></li>
+              <li><a href="http://www.cenit-del-petroleo.com/">Peak Oil</a></li>
+              <li><a href="https://www.youtube.com/watch?v=xopPWI6Mom8">Decrecimiento</a></li>
+              
+            </ol>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+
+      <hr>
+
+      <footer>
+        <p>&copy; Marigold 2015</p>
+      <p>Si estás interesado/a en contactar, envía un e-mail a: <strong>info@marigold.es</strong></p>
+      <p>Para obtener un borrador del proyecto en PDF, pincha <a href="PES_Marigold.pdf" target="_blank">aquí</a></p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
